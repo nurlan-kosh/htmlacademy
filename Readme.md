@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Нурлан Кошмагамбетов](https://up.htmlacademy.ru/adaptive/18/user/1253041).
-* Наставник: `Аслан Березгов `.
+* Наставник: `Аслан Березгов`.
 
 ---
 
